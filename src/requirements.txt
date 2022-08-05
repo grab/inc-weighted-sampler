@@ -1,0 +1,5 @@
+pyparsing >= 2.3.0
+gmpy2 == 2.0.8
+numpy >= 1.15.4
+psutil
+toposort==1.6
